@@ -205,7 +205,7 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 
 Faça antes o [Dev C#](https://github.com/NicolasNevesC/AULAS-Csharp) e aprenda a programar do zero.
 
-[![Dev C#](content/logo-dev-cs.png)
+![Dev C#](content/logo-dev-cs.png)
 
 ----
 Prof. Ermogenes Palacio, 2020-.
