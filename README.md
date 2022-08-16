@@ -203,9 +203,9 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 
 ## 😲 Está difícil demais, o que eu faço?
 
-Faça antes o [Dev C#](https://github.com/ermogenes/aulas-programacao-csharp) e aprenda a programar do zero.
+Faça antes o [Dev C#](https://github.com/NicolasNevesC/AULAS-Csharp) e aprenda a programar do zero.
 
-[![Dev C#](content/logo-dev-cs.png)](https://github.com/ermogenes/aulas-programacao-csharp)
+[![Dev C#](content/logo-dev-cs.png)
 
 ----
 Prof. Ermogenes Palacio, 2020-.
@@ -215,4 +215,3 @@ Prof. Ermogenes Palacio, 2020-.
 ![GitHub followers](https://img.shields.io/github/followers/ermogenes?label=seguidores&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ermogenes?style=social)
 
-💪 Contributor [👨🏻‍🏫 @diegoneri](https://github.com/diegoneri)
